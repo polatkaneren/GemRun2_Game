@@ -1,5 +1,5 @@
-/** Author: Polatkan Eren Polat
- Assignment by Outlier.org */
+// Author: Polatkan Eren Polat
+  
 
 import java.util.Scanner;
 
